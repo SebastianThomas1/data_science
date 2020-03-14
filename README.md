@@ -1,2 +1,2 @@
 # Some data science material
-created @ neue fische Bootcamp Data Science
+The material was created at or is inspired from neue fische Data Science Bootcamp.
